@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* influencer */
+.influencer{
+    margin: 50px 100px 100px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.influencer-heading{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.nav ul{
+    display: flex;
+    justify-content: end;
+}
+.nav ul li{
+    font-size: 25px;
+    font-weight: 600;
+   padding-left: 20px;
+   list-style-type: none;
+
+}
+/* banner */
+.ecommerce-site{
+    width: 80%;
+    margin: 0px auto;
+ 
+}
+
+.banner{
+    margin: 50px 100px 100px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.banner-heading{
+    font-size: 50px;
+    font-weight: 900;
+    padding-bottom: 10px;
+
+}
+.btn-primary{
+    padding: 6px 10px;
+    margin-top: 16px;
+    background-color: rgba(174, 27, 49, 0.778);
+    color: aliceblue;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+.banner-img{
+    background: url(images/Circle\ design.svg);
+    background-repeat: no-repeat;
+}
+/* ecommerce site */
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.logo li{
+    padding: 30px 40px;
+    list-style-type: none;
+}
+/* product lists */
+/* fuctseatured prod */
+.featured-products{
+    margin: 50px 100px 100px 100px;
+
+}
+.featured-products h2{
+    text-align: end;
+    font-size: 30px;
+    color: rgb(242, 10, 10);
+    margin: 50px 60px 50px auto
+}
+
+
+
+
+.features{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+}
+.features-title{
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.btn-primary1{
+    padding: 10px 35px;
+    margin-top: 25px;
+    background-color: rgba(248, 12, 12, 0.866);
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+footer{
+    background-color: rgb(23, 21, 41);
+    color: aliceblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+footer h1{
+    margin-bottom: 20px;
+}
+
+
+footer ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+footer ul li{
+    list-style-type: none;
+    padding: 15px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
